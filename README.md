@@ -4,27 +4,21 @@ Live iCal feed mirrored from Ohio State's official Sidearm calendar, with event 
 
 ## Subscribe (Apple Calendar / Google / Outlook)
 
-Prefer jsDelivr (GitHub raw CDN can lag):
+Use the GitHub raw URL (no `@` — Apple Calendar breaks jsDelivr by encoding `@` as `%40`):
 
 **webcal:**
 
 ```
-webcal://cdn.jsdelivr.net/gh/realjlj/ohio-state-football-cal@main/ohio-state-football.ics
+webcal://raw.githubusercontent.com/realjlj/ohio-state-football-cal/main/ohio-state-football.ics
 ```
 
-**https:**
-
-```
-https://cdn.jsdelivr.net/gh/realjlj/ohio-state-football-cal@main/ohio-state-football.ics
-```
-
-Fallback (may take a few minutes to update after a publish):
+**https** (also works in File → New Calendar Subscription):
 
 ```
 https://raw.githubusercontent.com/realjlj/ohio-state-football-cal/main/ohio-state-football.ics
 ```
 
-Mac: Calendar → File → New Calendar Subscription… → paste the webcal URL → refresh hourly.
+Mac: Calendar → File → New Calendar Subscription… → paste either URL → refresh hourly.
 
 iPhone: Settings → Apps → Calendar → Accounts → Add Account → Other → Add Subscribed Calendar.
 
@@ -34,4 +28,4 @@ Remove any earlier official `ohiostatebuckeyes.com` football subscription and th
 
 Upstream: `https://ohiostatebuckeyes.com/calendar.ashx/calendar.ics?sport_id=2`
 
-`rewrite_osu_ics.py` regenerates `ohio-state-football.ics`. A Grok Bot routine refreshes it through the season.
+`rewrite_osu_ics.py` regenerates `ohio-state-football.ics`. A Grok Bot routine refreshes it on Sundays in season.
