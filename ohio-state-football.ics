@@ -1,1 +1,172 @@
-PLACEHOLDER
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Josh//Ohio State Football Scores//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ohio State Football
+X-WR-TIMEZONE:America/New_York
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VEVENT
+UID:vcal_22214-admin.ohiostatebuckeyes.com
+DTSTAMP:20260905T200703Z
+SUMMARY:W 56-3 · vs Ball State
+DTSTART:20260905T163000Z
+DTEND:20260905T193000Z
+LOCATION:Columbus\, Ohio, Ohio Stadium
+DESCRIPTION:[W] Ohio State Football vs Ball State  - Jim Tressel Ring of Ho
+ nor, Alumni Band & Spirit Day and Football Senior Day\nW 56-3\nTV: Big Ten
+  Network\nRadio: 97.1 The Fan\nStreaming Video: https://bigten.org/btn/wat
+ ch-live/\nTickets: https://www.ticketmaster.com/ohio-state-buckeyes-footba
+ ll-vs-ball-columbus-ohio-09-05-2026/event/050064A7EAD9D0C7?CAMEFROM=CFC_BU
+ CKEYES_WEB_SCHEDULE_FB&brand=osubuckeyes\n
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22214&amp;spo
+ rt_id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_22215-admin.ohiostatebuckeyes.com
+DTSTAMP:20260905T200703Z
+SUMMARY:at Texas
+DTSTART:20260912T233000Z
+DTEND:20260913T023000Z
+LOCATION:Austin\, Texas
+DESCRIPTION:Ohio State Football at Texas\nTV: ABC\nRadio: 97.1 The Fan\nStr
+ eaming Video: https://www.espn.com/watch/player/_/id/11ebc949-370f-41d5-b7
+ 83-6ec7cb131f9b\n
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22215&amp;spo
+ rt_id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_22216-admin.ohiostatebuckeyes.com
+DTSTAMP:20260905T200703Z
+SUMMARY:vs Kent State
+DTSTART:20260919T160000Z
+DTEND:20260919T190000Z
+LOCATION:Columbus\, Ohio, Ohio Stadium
+DESCRIPTION:Ohio State Football vs Kent State  - Helmet Stripe Game\nTV: FO
+ X\nRadio: 97.1 The Fan\nStreaming Video: https://www.fox.com/?cmpid=org=on
+ e::ag=owned::mc=referral::src=fs::cmp=10010071002::add=626a\nTickets: http
+ s://www.ticketmaster.com/ohio-state-buckeyes-football-vs-kent-columbus-ohi
+ o-09-19-2026/event/050064A7EADCD0D2?CAMEFROM=CFC_BUCKEYES_WEB_SCHEDULE_FB&
+ brand=osubuckeyes\n
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22216&amp;spo
+ rt_id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_22217-admin.ohiostatebuckeyes.com
+DTSTAMP:20260905T200703Z
+SUMMARY:vs Illinois
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+LOCATION:Columbus\, Ohio, Ohio Stadium
+DESCRIPTION:Ohio State Football vs Illinois - Hall of Fame\nRadio: 97.1 The
+  Fan\nTickets: https://www.ticketmaster.com/ohio-state-buckeyes-football-v
+ s-university-columbus-ohio-09-26-2026/event/050064A7EAE0D0E1?CAMEFROM=CFC_
+ BUCKEYES_WEB_SCHEDULE_FB&brand=osubuckeyes\n
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22217&amp;spo
+ rt_id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_22218-admin.ohiostatebuckeyes.com
+DTSTAMP:20260905T200703Z
+SUMMARY:at Iowa
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+LOCATION:Iowa City\, Iowa
+DESCRIPTION:Ohio State Football at Iowa\nRadio: 97.1 The Fan\n
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22218&amp;spo
+ rt_id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_22219-admin.ohiostatebuckeyes.com
+DTSTAMP:20260905T200703Z
+SUMMARY:vs Maryland
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+LOCATION:Columbus\, Ohio, Ohio Stadium
+DESCRIPTION:Ohio State Football vs Maryland - Homecoming\nRadio: 97.1 The F
+ an\nTickets: https://www.ticketmaster.com/ohio-state-buckeyes-football-vs-
+ university-columbus-ohio-10-10-2026/event/050064A7EAE4D0EC?CAMEFROM=CFC_BU
+ CKEYES_WEB_SCHEDULE_FB&brand=osubuckeyes\n
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22219&amp;spo
+ rt_id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_22220-admin.ohiostatebuckeyes.com
+DTSTAMP:20260905T200703Z
+SUMMARY:at Indiana
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+LOCATION:Bloomington\, Ind.
+DESCRIPTION:Ohio State Football at Indiana \nRadio: 97.1 The Fan\n
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22220&amp;spo
+ rt_id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_22221-admin.ohiostatebuckeyes.com
+DTSTAMP:20260905T200703Z
+SUMMARY:at USC
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+LOCATION:Los Angeles\, Calif.
+DESCRIPTION:Ohio State Football at USC\nRadio: 97.1 The Fan\n
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22221&amp;spo
+ rt_id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_22222-admin.ohiostatebuckeyes.com
+DTSTAMP:20260905T200703Z
+SUMMARY:vs Oregon
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+LOCATION:Columbus\, Ohio, Ohio Stadium
+DESCRIPTION:Ohio State Football vs Oregon\nRadio: 97.1 The Fan\nTickets: ht
+ tps://www.ticketmaster.com/ohio-state-buckeyes-football-vs-oregon-columbus
+ -ohio-11-07-2026/event/050064A7EAE8D0FA?CAMEFROM=CFC_BUCKEYES_WEB_SCHEDULE
+ _FB&brand=osubuckeyes\n
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22222&amp;spo
+ rt_id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_22223-admin.ohiostatebuckeyes.com
+DTSTAMP:20260905T200703Z
+SUMMARY:vs Northwestern
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+LOCATION:Columbus\, Ohio, Ohio Stadium
+DESCRIPTION:Ohio State Football vs Northwestern  - Our Honor Defend / Milit
+ ary Appreciation\nRadio: 97.1 The Fan\nTickets: https://www.ticketmaster.c
+ om/ohio-state-buckeyes-football-vs-northwestern-columbus-ohio-11-14-2026/e
+ vent/050064A7EAECD0FF?CAMEFROM=CFC_BUCKEYES_WEB_SCHEDULE_FB&brand=osubucke
+ yes\n
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22223&amp;spo
+ rt_id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_22224-admin.ohiostatebuckeyes.com
+DTSTAMP:20260905T200703Z
+SUMMARY:at Nebraska
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:Lincoln\, Neb.
+DESCRIPTION:Ohio State Football at Nebraska\nRadio: 97.1 The Fan\n
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22224&amp;spo
+ rt_id=2
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_22225-admin.ohiostatebuckeyes.com
+DTSTAMP:20260905T200703Z
+SUMMARY:vs Michigan
+DTSTART:20261128T170000Z
+DTEND:20261128T200000Z
+LOCATION:Columbus\, Ohio, Ohio Stadium
+DESCRIPTION:Ohio State Football vs Michigan\nTV: FOX\nRadio: 97.1 The Fan\n
+ Streaming Video: https://www.fox.com/?cmpid=org=one::ag=owned::mc=referral
+ ::src=fs::cmp=10010071002::add=626a\nTickets: https://www.ticketmaster.com
+ /ohio-state-buckeyes-football-vs-university-columbus-ohio-11-28-2026/event
+ /050064A7EAF0D107?CAMEFROM=CFC_BUCKEYES_WEB_SCHEDULE_FB&brand=osubuckeyes\
+ n
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22225&amp;spo
+ rt_id=2
+END:VEVENT
+END:VCALENDAR
