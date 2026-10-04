@@ -9,122 +9,122 @@ X-PUBLISHED-TTL:PT1H
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 BEGIN:VEVENT
 UID:vcal_22214-admin.ohiostatebuckeyes.com
-DTSTAMP:20260927T152045Z
+DTSTAMP:20261004T151536Z
 SUMMARY:W 56-3 · vs Ball State
 DTSTART:20260905T163000Z
 DTEND:20260905T193000Z
 LOCATION:Columbus\, Ohio, Ohio Stadium
-URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22214&sport_id=2
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22214&amp;sport_id=2
 DESCRIPTION:W 56-3 | TV: Big Ten Network | Source: ohiostatebuckeyes.com
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_22215-admin.ohiostatebuckeyes.com
-DTSTAMP:20260927T152045Z
+DTSTAMP:20261004T151536Z
 SUMMARY:L 23-24 · at Texas
 DTSTART:20260912T233000Z
 DTEND:20260913T023000Z
 LOCATION:Austin\, Texas
-URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22215&sport_id=2
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22215&amp;sport_id=2
 DESCRIPTION:L 23-24 | TV: ABC | Source: ohiostatebuckeyes.com
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_22216-admin.ohiostatebuckeyes.com
-DTSTAMP:20260927T152045Z
+DTSTAMP:20261004T151536Z
 SUMMARY:W 59-3 · vs Kent State
 DTSTART:20260919T160000Z
 DTEND:20260919T190000Z
 LOCATION:Columbus\, Ohio, Ohio Stadium
-URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22216&sport_id=2
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22216&amp;sport_id=2
 DESCRIPTION:W 59-3 | TV: FOX\, Fox One | Source: ohiostatebuckeyes.com
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_22217-admin.ohiostatebuckeyes.com
-DTSTAMP:20260927T152045Z
+DTSTAMP:20261004T151536Z
 SUMMARY:W 42-19 · vs Illinois
 DTSTART:20260926T160000Z
 DTEND:20260926T190000Z
 LOCATION:Columbus\, Ohio, Ohio Stadium
-URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22217&sport_id=2
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22217&amp;sport_id=2
 DESCRIPTION:W 42-19 | TV: FOX\, Fox One | Source: ohiostatebuckeyes.com
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_22218-admin.ohiostatebuckeyes.com
-DTSTAMP:20260927T152045Z
-SUMMARY:at Iowa
+DTSTAMP:20261004T151536Z
+SUMMARY:W 31-14 · at Iowa
 DTSTART:20261003T193000Z
 DTEND:20261003T223000Z
 LOCATION:Iowa City\, Iowa
-URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22218&sport_id=2
-DESCRIPTION:TV: CBS | Source: ohiostatebuckeyes.com
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22218&amp;sport_id=2
+DESCRIPTION:W 31-14 | TV: CBS | Source: ohiostatebuckeyes.com
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_22219-admin.ohiostatebuckeyes.com
-DTSTAMP:20260927T152045Z
+DTSTAMP:20261004T151536Z
 SUMMARY:vs Maryland
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
+DTSTART:20261010T201500Z
+DTEND:20261010T231500Z
 LOCATION:Columbus\, Ohio, Ohio Stadium
-URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22219&sport_id=2
-DESCRIPTION:Source: ohiostatebuckeyes.com
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22219&amp;sport_id=2
+DESCRIPTION:TV: Big Ten Network | Source: ohiostatebuckeyes.com
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_22220-admin.ohiostatebuckeyes.com
-DTSTAMP:20260927T152045Z
+DTSTAMP:20261004T151536Z
 SUMMARY:at Indiana
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 LOCATION:Bloomington\, Ind.
-URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22220&sport_id=2
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22220&amp;sport_id=2
 DESCRIPTION:Source: ohiostatebuckeyes.com
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_22221-admin.ohiostatebuckeyes.com
-DTSTAMP:20260927T152045Z
+DTSTAMP:20261004T151536Z
 SUMMARY:at USC
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 LOCATION:Los Angeles\, Calif.
-URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22221&sport_id=2
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22221&amp;sport_id=2
 DESCRIPTION:Source: ohiostatebuckeyes.com
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_22222-admin.ohiostatebuckeyes.com
-DTSTAMP:20260927T152045Z
+DTSTAMP:20261004T151536Z
 SUMMARY:vs Oregon
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 LOCATION:Columbus\, Ohio, Ohio Stadium
-URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22222&sport_id=2
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22222&amp;sport_id=2
 DESCRIPTION:Source: ohiostatebuckeyes.com
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_22223-admin.ohiostatebuckeyes.com
-DTSTAMP:20260927T152045Z
+DTSTAMP:20261004T151536Z
 SUMMARY:vs Northwestern
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 LOCATION:Columbus\, Ohio, Ohio Stadium
-URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22223&sport_id=2
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22223&amp;sport_id=2
 DESCRIPTION:Source: ohiostatebuckeyes.com
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_22224-admin.ohiostatebuckeyes.com
-DTSTAMP:20260927T152045Z
+DTSTAMP:20261004T151536Z
 SUMMARY:at Nebraska
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 LOCATION:Lincoln\, Neb.
-URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22224&sport_id=2
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22224&amp;sport_id=2
 DESCRIPTION:Source: ohiostatebuckeyes.com
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_22225-admin.ohiostatebuckeyes.com
-DTSTAMP:20260927T152045Z
+DTSTAMP:20261004T151536Z
 SUMMARY:vs Michigan
 DTSTART:20261128T170000Z
 DTEND:20261128T200000Z
 LOCATION:Columbus\, Ohio, Ohio Stadium
-URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22225&sport_id=2
+URL:https://admin.ohiostatebuckeyes.com/calendar.aspx?game_id=22225&amp;sport_id=2
 DESCRIPTION:TV: FOX\, Fox One | Source: ohiostatebuckeyes.com
 END:VEVENT
 END:VCALENDAR
